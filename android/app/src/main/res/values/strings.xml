@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PushNotification</string>
+    <string name="title_activity_main">PushNotification</string>
+    <string name="package_name">danielgz.ionicpushnotification</string>
+    <string name="custom_url_scheme">danielgz.ionicpushnotification</string>
+</resources>

@@ -16,5 +16,15 @@
   <div id="container">
     <strong>Ready to create an app?</strong>
     <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <p>{{token}}</p>
+    <ion-button expand="full" color="Primary" (click)="requestPermissions()">Habilitar push</ion-button>
+<ion-list>
+  <ion-card *ngFor="let item of items | async">
+    <ion-title>{{item.token}}</ion-title>
+    <ion-button (click)="onClick()" fill="clear">
+      <ion-icon slot="center" name="send"></ion-icon>
+    </ion-button>
+  </ion-card>
+</ion-list>
   </div>
 </ion-content>

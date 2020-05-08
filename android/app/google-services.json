@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267425535754",
+    "firebase_url": "https://pushnotificationdanielgz.firebaseio.com",
+    "project_id": "pushnotificationdanielgz",
+    "storage_bucket": "pushnotificationdanielgz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267425535754:android:13f582c42d6b1880b88cf3",
+        "android_client_info": {
+          "package_name": "danielgz.ionicpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267425535754-t4qq8f3o4s3t6fvf0o51euugh68aeibh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC7t1B8aN2SKNPR7kY9fCcYW0Ufpoh_8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267425535754-t4qq8f3o4s3t6fvf0o51euugh68aeibh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
